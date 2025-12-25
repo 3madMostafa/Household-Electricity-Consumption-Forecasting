@@ -1,7 +1,8 @@
 # Household Electricity Consumption Forecasting - Streamlit Application
 
 A professional web application for predicting household electricity consumption using XGBoost machine learning model.
-
+and this is the production demo:
+https://household-electricity-consumption-forecasting-mwwxybtbkjgt7ddl.streamlit.app/
 ## Features
 
 - **Single Prediction**: Predict energy consumption for a specific date and time
